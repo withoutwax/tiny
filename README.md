@@ -18,3 +18,7 @@ const tiny = require("@withoutwax/tiny");
 tiny();
 // => "🐁"
 ```
+Then in your Terminal, type:
+```
+node index.js
+```
