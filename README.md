@@ -9,7 +9,7 @@ It prints out: 🐁
 ## Install
 Install globally!
 ```
-$ npm install -g withoutwax-tiny
+$ npm install -g @withoutwax/tiny
 ```
 
 ## Usage
