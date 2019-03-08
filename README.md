@@ -7,18 +7,15 @@ It's a tiniest npm package 📦
 It prints out: 🐁
 
 ## Install
+Install globally!
 ```
-$ npm install @withoutwax/tiny
+$ npm install -g withoutwax-tiny
 ```
 
 ## Usage
-```JavaScript
-const tiny = require("@withoutwax/tiny");
+Just type ```tiny```!
+```
+$ tiny
 
-tiny();
-// => "🐁"
-```
-Then in your Terminal, type:
-```
-node index.js
+🐁
 ```

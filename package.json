@@ -5,6 +5,9 @@
     "license": "MIT",
     "repository": "withoutwax/tiny",
     "main": "index.js",
+    "bin": {
+        "tiny": "bin/tiny"
+    },
     "keywords": [
         "tiny",
         "npm",
